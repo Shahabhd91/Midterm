@@ -44,8 +44,9 @@
     "@types/passport-local-mongoose": "^4.0.13"
   },
   "repository": {
+    "main": "server.js",
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Shahabhd91/Midterm/issues"
   },
   "keywords": [
     "NodeJS",
